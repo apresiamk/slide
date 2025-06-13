@@ -13,7 +13,7 @@ footer: (c) 2025 APRESIA Systems, Ltd.
 ![bg](images/top_back.png)
 
 2025/6/13
-菊地　誠
+
 
 ---
 
